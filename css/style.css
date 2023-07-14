@@ -5,7 +5,7 @@
 }
 
 * {
- font-family: "Roboto Condensed", sans-serif;
+
  margin: 0;
  padding: 0;
  box-sizing: border-box;
@@ -16,10 +16,7 @@
  transition: all 0.2s linear;
 }
 
-h1,
-h3 {
- font-family: "Dosis", sans-serif;
-}
+
 *::selection {
  background: var(--yellow);
  color: #fff;
